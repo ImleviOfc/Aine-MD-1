@@ -52,7 +52,7 @@ Hai, %ucapan %name! 👋
   header: ' *%category*',
   body: ' • %cmd %islimit %isPremium',
   footer: '\n',
-  after: `*Made by ♡*
+  after: `*Made by ཌ✼ᴠᴇɴ-ʙᴏᴛᴢ✼ད*
 *%npmname* | %version
 ${'```%npmdesc```'}
 `,
@@ -157,7 +157,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    conn.sendButton(m.chat, text.trim(), 'Made with ♡ by Levi Xhiao', null, [['Donasi', '.donasi'],['Owner', '.owner']], m)
+    conn.sendButton(m.chat, text.trim(), 'Made with ♡ by ཌ✼ᴠᴇɴ-ʙᴏᴛᴢ✼ད', null, [['Donasi', '.donasi'],['Owner', '.owner']], m)
     /*conn.sendHydrated(m.chat, text.trim(), 'Ⓟ premium | Ⓛ limit', null, 'https://github.com/ImleviOfc', 'Website', '', '', [
       ['Donasi', '/donasi'],
       ['Sewa Bot', '/sewa'],
