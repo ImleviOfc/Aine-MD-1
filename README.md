@@ -1,12 +1,12 @@
-# Aine-MD
+# ven-botz
 
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
 
 Script ini gratis, Jika ketahuan di jual, Script ini akan langsung di hapus.
 Jangan lupa untuk mengikuti github ku
-* My WhatsApp [`Click Here`](https://wa.me/62895330379186?text=Assalamualaikum)
-* My Facebook [`Click Here`](https://facebook.com/ainneboot)
+* My WhatsApp [`Click Here`](https://wa.me/6285172446692?text=Assalamualaikum)
+* My Facebook [`Click Here`](https://www.facebook.com/erdiansyah.teddy.3)
 
 ## Viewer 👁️
 <p align="center"><img src="https://profile-counter.glitch.me/{Aiinne}/count.svg" alt="neoxr :: Visitor's Count" /></p>
